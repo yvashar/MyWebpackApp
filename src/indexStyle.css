@@ -1,0 +1,49 @@
+#root{
+  height: 100%;
+  
+}
+h1 {
+    color: green;
+    background-color: tomato;
+    text-align: center;
+    height: 25%;
+  }
+ul{
+  margin-top: 50%;
+  margin-right: 30%;
+}
+ul li{
+  font-size: 40px;
+  color: rgba(244, 240, 8, 1);
+  font-weight: bold;
+  line-height: 1.5;
+}
+.header{
+  height: 25%;
+  width: 100%;
+  color: black;
+  background: #865fa0;
+  font-size: 70px;
+  text-align: center
+}
+
+.latestMovieItem {
+  font-size:30px;
+  height: auto;
+  width: auto;
+  color:red;
+}
+
+#latestMovieContainer{
+  height: auto;
+  width: auto;
+  margin-top:10%;
+  font-size: 30px;
+  line-height: 1.5;
+  font-weight: bold;
+  font-style: italic;
+  border: solid 3px;
+  background: #b89a3f;
+  padding: 30px;
+  margin-left: 50%;
+}
